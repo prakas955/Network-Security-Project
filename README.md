@@ -1,7 +1,7 @@
 # Network-Security-Project
 # Title:Secure Network Topology Implementation with pfSense, Kali Linux, and Windows 10
 # Overview:
-In this project, we implemented a secure network topology using three virtual machines connected in a simulated enterprise environment. 
+In this project, I implemented a secure network topology using three virtual machines connected in a simulated enterprise environment. 
 The setup included configuring a firewall, intrusion detection system, proxy server, and antivirus to enhance network security.
 # Description:
 - Developed a secure enterprise-level network topology using VirtualBox with Kali Linux, Windows 10, and pfSense VMs.
