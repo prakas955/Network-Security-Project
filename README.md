@@ -14,3 +14,6 @@ The setup included configuring a firewall, intrusion detection system, proxy ser
 # Technologies:
 - Tools: pfSense, Kali Linux, Windows 10, Snort, Squid, ClamAV, Nmap
 - Skills: Network configuration, Intrusion detection, Proxy filtering, Vulnerability scanning, Firewall rules
+# Network Topology
+![image](https://github.com/user-attachments/assets/10f7b72a-8688-43c5-937d-9d1667a414ea)
+
